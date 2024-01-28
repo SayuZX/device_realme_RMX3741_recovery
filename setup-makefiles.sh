@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=ossi
+DEVICE=RMX3741
 VENDOR=oplus
 
 # Load extract_utils and do some sanity checks
